@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+	<!-- Import tModLoader mod properties -->
+	<Import Project="..\tModLoader.targets" />
+
+	<!-- General -->
+	<PropertyGroup>
+		
+	</PropertyGroup>
+
+	<!-- References -->
+	<ItemGroup>
+    <Reference Include="..\ModAssemblies\MagicStorage_*.dll" />
+    <Reference Include="..\ModAssemblies\HelpfulHotkeys_*.dll" />
+    <Reference Include="..\ModAssemblies\SerousCommonLib_*.dll" />
+	</ItemGroup>
+
+</Project>

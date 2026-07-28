@@ -1,0 +1,13 @@
+This mod simply adds 4 new configurable hotkeys for magic storage:
+- Open wireless crafting access
+- Open wireless storage access
+- Focus search bar
+- Clear search bar
+
+You must have a wireless access book in your inventory to use the first two.
+
+Join the discord to report bugs & suggest changes:
+https://discord.gg/MKcjBKwBVu
+
+GitHub:
+https://github.com/martipops/MagicStorageHotkeys

@@ -1,0 +1,6 @@
+Keybinds: {
+	OpenCraftingAccess.DisplayName: Open Crafting Access
+	OpenStorageAccess.DisplayName: Open Storage Access
+	FocusSearchBar.DisplayName: Focus Search Bar
+	ClearSearchBar.DisplayName: Clear Search Bar
+}
